@@ -6,7 +6,7 @@ A simple static clone of Netflix's homepage built using only **HTML** and **CSS*
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live site](https://https://cyberlordsy.github.io/Netflix-Clone)
+👉 [Click here to view the live site](https://cyberlordsy.github.io/Netflix-Clone/)
 
 > *CyberLordSY*
 
@@ -37,4 +37,4 @@ A simple static clone of Netflix's homepage built using only **HTML** and **CSS*
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/CyberlordSY/Netflix-Clone.git
+   git clone git clone https://github.com/CyberlordSY/Netflix-Clone.git
