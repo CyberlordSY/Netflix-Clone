@@ -10,7 +10,7 @@ A simple static clone of Netflix's homepage built using only **HTML** and **CSS*
 
 > *CyberLordSY*
 
----
+
 
 ---
 
