@@ -38,3 +38,9 @@ A simple static clone of Netflix's homepage built using only **HTML** and **CSS*
 1. Clone this repository:
    ```bash
    git clone git clone https://github.com/CyberlordSY/Netflix-Clone.git
+
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
